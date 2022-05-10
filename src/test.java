@@ -3,5 +3,6 @@ public class test {
         System.out.println("Hello World");
         System.out.println("Chen");
         System.out.println("new test");
+        System.out.printf("abc");
     }
 }
